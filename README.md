@@ -4,7 +4,7 @@ A full-stack Currency Converter web application with a **Java Spring Boot backen
 
 
 
-## 🚀 Live Demo
+## 🚀 Live at:
 - **Frontend (Netlify):** [https://currency-converter-zandacross.netlify.app/](https://currency-converter-zandacross.netlify.app/)
 - **Backend API (Render):** [https://currency-converter-backend-xxx.onrender.com](https://currency-converter-backend-xxx.onrender.com)
 
@@ -17,8 +17,8 @@ A full-stack Currency Converter web application with a **Java Spring Boot backen
 
 ## 📂 Repository Structure
 This project is split into two separate repositories to maintain a clean separation of concerns:
-- **Backend Repository:** [`<backend-repo-url>`](<backend-repo-url>)
-- **Frontend Repository:** [`<frontend-repo-url>`](<frontend-repo-url>)
+- **Backend Repository:** [`<backend-repo-url>`](<https://github.com/zanda-cross/Currency-Converter-Backend>)
+- **Frontend Repository:** [`<frontend-repo-url>`](<https://github.com/zanda-cross/Currency-Converter-Frontend>)
 
 ## ⚙️ Tech Stack
 - **Backend:** Java 21, Spring Boot, Maven, REST APIs
