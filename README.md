@@ -2,7 +2,7 @@
 
 A full-stack Currency Converter web application with a **Java Spring Boot backend** and a **vanilla JavaScript frontend**. This project demonstrates REST API integration, clean frontend-backend communication, and modern deployment practices on cloud platforms.
 
-## 🚀 Live Demo
+## 🚀 Live at:
 
 You can try the live application here: **[https://currency-converter-zandacross.netlify.app/](https://currency-converter-zandacross.netlify.app/)**
 
