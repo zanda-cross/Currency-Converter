@@ -4,9 +4,7 @@ A full-stack Currency Converter web application with a **Java Spring Boot backen
 
 
 
-## 🚀 Live at:
-- **Frontend (Netlify):** [https://currency-converter-zandacross.netlify.app/](https://currency-converter-zandacross.netlify.app/)
-- **Backend API (Render):** [https://currency-converter-backend-xxx.onrender.com](https://currency-converter-backend-xxx.onrender.com)
+## 🚀 Live at: https://currency-converter-zandacross.netlify.app/
 
 ## ✨ Core Features
 - Fetch a complete list of world currencies.
@@ -27,8 +25,8 @@ This project is split into two separate repositories to maintain a clean separat
 
 ## 🛠️ How to Run
 Please refer to the `README.md` file within each repository for specific setup instructions:
-1.  [Backend Setup Instructions](<https://github.com/zanda-cross/Currency-Converter-Backend#>/blob/main/README.md)
-2.  [Frontend Setup Instructions](<frontend-repo-url>/blob/main/README.md)
+1.  [Backend Setup Instructions](<https://github.com/zanda-cross/Currency-Converter-Backend/blob/b1c959e36bd7a48ae4daa66cc9a5ad31d3b31b30/README.md>)
+2.  [Frontend Setup Instructions](<https://github.com/zanda-cross/Currency-Converter-Frontend/blob/f06fd7ea324e5aea6b76bc3d643ec4fa3d652e2e/README.md>)
 
 ---
 💡 **Note:** The backend securely manages the external API key using environment variables on Render. The frontend only communicates with our backend API, never directly with the external exchange rate service.
