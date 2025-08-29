@@ -27,7 +27,7 @@ This project is split into two separate repositories to maintain a clean separat
 
 ## 🛠️ How to Run
 Please refer to the `README.md` file within each repository for specific setup instructions:
-1.  [Backend Setup Instructions](<backend-repo-url>/blob/main/README.md)
+1.  [Backend Setup Instructions](<https://github.com/zanda-cross/Currency-Converter-Backend#>/blob/main/README.md)
 2.  [Frontend Setup Instructions](<frontend-repo-url>/blob/main/README.md)
 
 ---
